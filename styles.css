@@ -218,6 +218,14 @@ td:first-child {
     border-right: 0.5px solid #B1ABAB;
 }
 
+tr {
+    border-bottom: 0.5px solid #B1ABAB;
+}
+
+tr:last-child {
+    border: none;
+}
+
 .go-to-back {
     text-decoration: underline;
     font-size: 12px;
