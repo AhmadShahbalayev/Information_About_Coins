@@ -23,10 +23,10 @@ header {
 .header-of-page {
     height: 71px;
     font-style: normal;
-    font-size: 43px;
-    line-height: 50px;
+    font-size: 35px;
     color: #000000; 
-    margin: 39px 87px 10.26px 22px;
+    margin-left: 35px;
+    margin-bottom: 0px;
     min-width: 600px;
 }
 
@@ -90,6 +90,7 @@ header {
 
 .coin-box-text-info {
     min-width: 150px;
+    margin: 0px;
 }
 
 .header-of-coin {
@@ -98,7 +99,7 @@ header {
     font-size: 16px;
     line-height: 19px;
     color: #833AE0;
-    margin: 0px;
+    margin: 0px 0px 7px 0px;
     padding: 0px;
 }
 
