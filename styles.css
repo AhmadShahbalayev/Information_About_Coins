@@ -1,9 +1,6 @@
-html {
-    font-family: Roboto;
-}
-
 * {
     box-sizing: border-box;
+    font-family: Roboto;
 }
 
 header {
@@ -88,7 +85,7 @@ header {
     line-height: 19px;
 }
 
-.coin-box-text-info {
+.coin-box-text p {
     min-width: 150px;
     margin: 0px;
 }
@@ -116,6 +113,7 @@ header {
     line-height: 123.4%;
     margin: 0px;
     padding: 0px;
+    min-width: 55px;
 }
 
 .discounted-price {
